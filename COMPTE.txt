@@ -1,0 +1,7 @@
+ADMIN:
+Username: joys
+Mot de passe: joyeuse007@
+
+editrice:
+Username: congo
+Mot de passe: joyeuse007go
